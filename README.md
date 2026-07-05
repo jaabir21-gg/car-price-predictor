@@ -12,7 +12,7 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ---
 
 ## 🔗 Project Links
-* **Live Dockerized Web Application:** https://car-price-predictor-iuyn.onrender.com
+* **Live Dockerized Web Application:** https://car-price-predictor-seven-blond.vercel.app/
 * **GitHub Repository:** 
 
 ---
