@@ -5,15 +5,15 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ---
 
 ## 👤 Developer Profile
-* **Name:** Anish Bhattacharjee
-* **Registration Number:** 23BAI10736
+* **Name:** Md Jaabir Islam
+* **Registration Number:** 23BHI10150
 * **Course:** B.Tech Computer Science and Engineering
 
 ---
 
 ## 🔗 Project Links
 * **Live Dockerized Web Application:** https://car-price-predictor-iuyn.onrender.com
-* **GitHub Repository:** https://github.com/anish-hlv/Car_Price_Predictor.git
+* **GitHub Repository:** 
 
 ---
 
